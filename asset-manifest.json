@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OlatundeJessePortfolio/static/css/main.722eafe8.css",
+    "main.js": "/OlatundeJessePortfolio/static/js/main.66ac65c4.js",
+    "static/js/453.4903b5e8.chunk.js": "/OlatundeJessePortfolio/static/js/453.4903b5e8.chunk.js",
+    "index.html": "/OlatundeJessePortfolio/index.html",
+    "main.722eafe8.css.map": "/OlatundeJessePortfolio/static/css/main.722eafe8.css.map",
+    "main.66ac65c4.js.map": "/OlatundeJessePortfolio/static/js/main.66ac65c4.js.map",
+    "453.4903b5e8.chunk.js.map": "/OlatundeJessePortfolio/static/js/453.4903b5e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.722eafe8.css",
+    "static/js/main.66ac65c4.js"
+  ]
+}
